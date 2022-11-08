@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+    <Persona>
+        <dni>41234564A</dni>
+        <nombre>ANA</nombre>
+        <apellido>FERNANDEZ</apellido>
+        <edad>56</edad>
+        <casado>true</casado>
+        <telefono>911234101</telefono>
+        <direccion>CALLE UNO</direccion>
+    </Persona>
+    <Persona>
+        <dni>98765432M</dni>
+        <nombre>OLGA</nombre>
+        <apellido>GIL</apellido>
+        <edad>48</edad>
+        <casado>true</casado>
+        <telefono>911234102</telefono>
+        <direccion>CALLE DOS</direccion>
+    </Persona>
+    <Persona>
+        <dni>34562845D</dni>
+        <nombre>MARIA</nombre>
+        <apellido>LOPEZ</apellido>
+        <edad>30</edad>
+        <casado>false</casado>
+        <telefono>911234103</telefono>
+        <direccion>CALLE TRES</direccion>
+    </Persona>
+    <Persona>
+        <dni>27485678B</dni>
+        <nombre>RAQUEL</nombre>
+        <apellido>RAMOS</apellido>
+        <edad>37</edad>
+        <casado>false</casado>
+        <telefono>911234104</telefono>
+        <direccion>CALLE CUATRO</direccion>
+    </Persona>
+    <Persona>
+        <dni>12345987R</dni>
+        <nombre>INMA</nombre>
+        <apellido>SEVILLA</apellido>
+        <edad>39</edad>
+        <casado>true</casado>
+        <telefono>911234105</telefono>
+        <direccion>CALLE CINCO</direccion>
+    </Persona>
+</Personas>

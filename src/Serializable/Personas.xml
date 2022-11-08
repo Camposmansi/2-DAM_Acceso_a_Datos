@@ -1,0 +1,34 @@
+<ListaPersonasMunicipio>
+  <DatosPersona>
+    <nombre>Carlos</nombre>
+    <edad>34</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Carlos</nombre>
+    <edad>34</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Carlos</nombre>
+    <edad>34</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Carlos</nombre>
+    <edad>34</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Carlos</nombre>
+    <edad>34</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Felix, Pepe</nombre>
+    <edad>20</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Felix</nombre>
+    <edad>20</edad>
+  </DatosPersona>
+  <DatosPersona>
+    <nombre>Pepe</nombre>
+    <edad>23</edad>
+  </DatosPersona>
+</ListaPersonasMunicipio>
